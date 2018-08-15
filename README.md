@@ -4,7 +4,7 @@ Inspired by [wox.plugin.putty](https://github.com/kosz78/wox.plugin.putty), this
 
 #How to use
 1. Install this plugin via `wpm install kitty`
-2. Edit config.json file in this plugin folder and set the the kitty folder path in your disk
+2. Edit config.json file in this plugin folder and set the kitty folder path in your disk
 3. Run the Wox command 'Restart Wox' 
 4. Run the Wox command 'kitty yourSessionHere'
 
